@@ -42,13 +42,6 @@ I'm a passionate **Software Developer** with a strong interest in building scala
 
 ---
 
-## 📈 GitHub Stats
-
-![Vande Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=VandeDaniel&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VandeDaniel&layout=compact&theme=radical)
-
----
-
 ### 📌 Fun Fact
 > "I don't just write code — I craft software that delivers results."
 
